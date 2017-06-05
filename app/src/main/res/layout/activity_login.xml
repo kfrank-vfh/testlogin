@@ -52,6 +52,7 @@
                     android:maxLines="1"
                     android:singleLine="true"
                     android:imeOptions="actionNext"
+                    android:text="e@mail.de"
                     />
 
             </android.support.design.widget.TextInputLayout>
